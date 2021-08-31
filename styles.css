@@ -1,0 +1,16 @@
+*{
+    font-family: 'Space Mono', monospace;
+}
+.carousel-image{
+    
+    object-fit: cover;
+   filter: sepia(55%);
+    height: 65vh;
+    width: fit-content
+}
+
+.container-card{
+    margin-top: 250px;
+}
+
+
